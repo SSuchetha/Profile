@@ -1,0 +1,159 @@
+body
+{
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.intro
+{
+    background: rgb(189, 183, 166);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.first-block img
+{
+    width: 25%;
+    height: 150px;
+    background-size: contain;
+    border-radius: 50%;
+    display: block;
+    margin-right: 200px;
+    margin-left: 220px;
+    padding-top: 15px;
+}
+
+.name
+{
+    text-align: center;
+}
+
+.about-me
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    text-align: justify;
+    padding: 10px 10px 10px 10px;
+}
+
+.linkedin
+{
+    background: url(https://www.linkedin.com/in/suchetha-s) no-repeat;
+    text-align: center;
+}
+
+.instagram
+{
+    background: url(https://www.instagram.com/s.suchetha/) no-repeat;
+    margin-left: 10px;
+}
+
+.github
+{
+    background: url(https://github.com/SSuchetha) no-repeat;
+    margin-left: 10px;
+}
+
+.social-links
+{
+    background: rgb(189, 183, 166);
+    margin-left: 230px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+}
+
+.social-links img
+{
+    width: 25%;
+    border-radius: 50%;
+    padding-bottom: 5px;
+}
+
+.social-links img:hover
+{
+    transform: scale(1.3);
+}
+
+.skills-tools
+{
+    background: rgb(123, 184, 136);
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+    padding: 1px 15px 15px 15px;
+}
+
+.container 
+{
+  width: 100%; 
+  background-color: #ddd; 
+}
+
+.ml
+{
+    width: 70%; 
+    background-color: #2196F3;
+} 
+.c
+{
+    width: 90%; 
+    background-color: #f44336;
+} 
+.python 
+{
+    width: 70%; 
+    background-color: #808080;
+}
+
+.java 
+{
+    width: 70%; 
+    background-color: yellow;
+}
+
+.html 
+{
+    width: 60%; 
+    background-color: purple;
+}
+
+.projects
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+    padding: 1px 15px 15px 15px;
+    background: rgb(221, 215, 200);
+}
+
+.heading
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.food_delivery
+{
+    float: right;
+    width: 90%;
+}
+
+.hostel
+{
+    float: right;
+    width: 85%;
+}
+
+.loan
+{
+    float: right;
+    width: 95%;
+}
+
+.digit
+{
+    float: right;
+    width: 100%;
+}
